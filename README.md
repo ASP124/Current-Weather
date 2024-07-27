@@ -12,7 +12,6 @@ We are committed to enhancing your experience and keeping you informed about the
 
 ## Home Page:
 
-![Home Page](assests/Screenshot 2024-07-27 163437.png)
 ![image](https://github.com/user-attachments/assets/a32aa939-15dd-4a90-b07c-157b685dfe0d)
 
 ## Contact Us Page:
