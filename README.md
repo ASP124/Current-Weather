@@ -12,7 +12,7 @@ We are committed to enhancing your experience and keeping you informed about the
 
 ## Home Page:
 
-![Home Page](assets/Screenshot_2024-07-27_163437.png)
+![Home Page](assests/Screenshot 2024-07-27 163437.png)
 
 ## Contact Us Page:
 
