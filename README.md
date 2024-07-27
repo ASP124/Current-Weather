@@ -16,8 +16,9 @@ We are committed to enhancing your experience and keeping you informed about the
 
 ## Contact Us Page:
 
-![Contact Us Page](assets/Screenshot_2024-07-27_163447.png)
+![image](https://github.com/user-attachments/assets/621937df-9c64-49d8-a5b1-2dc486b149ee)
 
 ## About Us Page:
 
-![About Us Page](assets/Screenshot_2024-07-27_163454.png)
+![Screenshot 2024-07-27 163454](https://github.com/user-attachments/assets/5bd68a0e-95d8-43cf-b048-0519344bfed3)
+
